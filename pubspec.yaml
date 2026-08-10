@@ -1,5 +1,9 @@
 name: internnova
+<<<<<<< HEAD
 description: "InternNova - Global Innovation Internship Platform"
+=======
+description: "A new Flutter project."
+>>>>>>> auth-admin
 publish_to: 'none'
 
 version: 1.0.0+1
@@ -14,6 +18,11 @@ dependencies:
   cupertino_icons: ^1.0.8
   google_fonts: ^6.3.2
 
+  firebase_core: ^4.0.0
+  firebase_auth: ^6.0.0
+  cloud_firestore: ^6.0.0
+  google_fonts: ^8.2.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -22,3 +31,9 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+<<<<<<< HEAD
+=======
+
+  assets:
+    - assets/images/internnova_logo.jpeg
+>>>>>>> auth-admin

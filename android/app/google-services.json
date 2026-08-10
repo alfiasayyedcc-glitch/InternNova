@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1099449673763",
+    "project_id": "internship-management-pl-5ad66",
+    "storage_bucket": "internship-management-pl-5ad66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099449673763:android:599544616fbfb79d31e996",
+        "android_client_info": {
+          "package_name": "com.example.internnova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT8XB6eAUMz9ZO8m900yH0CcyfV0Z4SSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099449673763:android:232eb802bea89bdb31e996",
+        "android_client_info": {
+          "package_name": "com.example.internship_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT8XB6eAUMz9ZO8m900yH0CcyfV0Z4SSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
