@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -179,6 +180,12 @@ class AppTheme {
       indicatorColor:
           AppColors.secondary.withValues(alpha: 0.15),
       elevation: 4,
+      labelTextStyle: WidgetStatePropertyAll(
+        GoogleFonts.poppins(
+          fontSize: 11,
+          fontWeight: FontWeight.w500,
+        ),
+      ),
     ),
 
     dividerTheme: const DividerThemeData(
@@ -187,3 +194,4 @@ class AppTheme {
     ),
   );
 }
+
